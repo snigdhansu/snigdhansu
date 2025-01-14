@@ -85,3 +85,19 @@ Currently pursuing my Master’s in Computer Science at UMass Amherst, I am expl
   </a> 
 </p>
 
+### 🚀 Projects:
+
+<font size = "2">
+
+- [TruthLens](https://github.com/snigdhansu/TruthLens)
+- [SchedulCare](https://github.com/snigdhansu/SchedulCare)
+- [Complex Query Synthesis](https://github.com/snigdhansu/Complex_Query_Generation_for_IR)
+- [Trending Github Repo Predictor](https://github.com/snigdhansu/Github_Repo_Trend_Predictor)
+
+</font>
+
+### 📜 Certifications:
+<font size = "2">
+
+- [Agile Foundations](https://drive.google.com/file/d/1yyrurTjtKDuN5gLhRJuawx2sFwMOnicM/view)
+</font>
