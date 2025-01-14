@@ -27,7 +27,7 @@ Currently pursuing my Master’s in Computer Science at UMass Amherst, I am expl
 - 💬 Ask me about Software Sytems, Backend Engineering, NLP.
 - 🏀 I enjoy playing basketball and 🎨 painting in my free time. ✈️ When I travel, I love exploring 🍴 new cuisines.
 
-  <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
